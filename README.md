@@ -1,3 +1,2 @@
-# digital-image-recognition
-
-given images of handwritten numbers, we can feed those images into a neural network and determine how accurate our neural network is
+# digital-image
+Used matlab to a set of 10,000 detect handwritten images. Later converted to C and verilog
